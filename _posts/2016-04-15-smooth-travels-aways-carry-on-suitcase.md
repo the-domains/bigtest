@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-29T22:34:17.194Z'
+datePublished: '2016-06-29T23:48:12.097Z'
 sourcePath: _posts/2016-04-15-smooth-travels-aways-carry-on-suitcase.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/travel/away-new-carry-on-suitcase'
@@ -18,8 +18,8 @@ keywords:
   - prices
 related: []
 author: []
-dateModified: '2016-06-29T22:34:07.619Z'
-title: 'Donald Trump: Make America Great Again!'
+dateModified: '2016-06-29T23:04:30.289Z'
+title: 'Donald Trump: Making America Great Again'
 app_links: []
 publisher:
   name: Cool Hunting
@@ -34,7 +34,5 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Donald Trump: Make America Great Again!
+# Donald Trump: Making America Great Again
 ![Donald Trump is on his way to Making America Great Again! ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ef6f88d077794282b968415a9e1a03e434e0cef.jpg)
-
-# Star Wars
