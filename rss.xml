@@ -4,11 +4,18 @@
         <description><![CDATA[Rantdog Animation]]></description>
         <link>https://thegrid.ai/bigtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 22:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 22:41:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigtest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bunny Hospital by Rantdog]]></title>
+            <description><![CDATA[<article><h1>Bunny Hospital by Rantdog</h1><p>Visiting hours are over...This is Bunny Hospital.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=P-59gOKufaY</link>
+            <guid isPermaLink="false">e9db25a2-a140-46c7-92f5-70fd245c730c</guid>
+            <pubDate>Wed, 29 Jun 2016 22:41:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bunny Hospital: Breaking Dawn]]></title>
-            <description><![CDATA[<article><h1>Bunny Hospital: Breaking Dawn</h1><p>Visiting hours are over...This is Bunny Hospital.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Bunny Hospital: Breaking Dawn</h1><p>Visiting hours are over...This is Bunny Hospital.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/624adb350dca32595bd02a0f8949a92e/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FEFXodNzHsac%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=EFXodNzHsac</link>
             <guid isPermaLink="false">27ecc7f5-5372-46eb-950d-907cd500d94c</guid>
             <pubDate>Wed, 29 Jun 2016 22:40:09 GMT</pubDate>
