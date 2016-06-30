@@ -4,15 +4,8 @@
         <description><![CDATA[Defining Stupid]]></description>
         <link>https://thegrid.ai/bigtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 18:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 18:51:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigtest/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb5a0116-bcac-4ddf-a9d7-8ae150c0c54a.jpg">]]></description>
-            <link>https://thegrid.ai/bigtest/ea689c16-910a-467e-92f1-b7c0358310e3/index.html</link>
-            <guid isPermaLink="false">ea689c16-910a-467e-92f1-b7c0358310e3</guid>
-            <pubDate>Thu, 30 Jun 2016 18:51:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/818251c3-490b-437a-acb3-fe3ddf95ccb6.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=EFXodNzHsac</link>
             <guid isPermaLink="false">27ecc7f5-5372-46eb-950d-907cd500d94c</guid>
             <pubDate>Wed, 29 Jun 2016 22:40:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rantdog Is There a Pong? (Redux of Machinima: God of Pong)]]></title>
+            <description><![CDATA[<article><h1>Rantdog Is There a Pong? (Redux of Machinima: God of Pong)</h1><p>Is there a god?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/777c312f92c23f1a5db3ffc85a8f562a/croprotate.jpg?cropheight=1080&cropwidth=1839&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FZ3Y4a74lRSY%2Fmaxresdefault.jpg&x=41&y=0"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Z3Y4a74lRSY</link>
+            <guid isPermaLink="false">99f79580-fe74-4c0e-981b-017bc1e53a55</guid>
+            <pubDate>Wed, 29 Jun 2016 22:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
